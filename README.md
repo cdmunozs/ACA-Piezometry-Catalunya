@@ -85,7 +85,7 @@ The analysis generates an interactive HTML map (`output/mapa_piezometrico_catalu
 ---
 
 ## Repository Structure
-
+```
 ACA-Piezometry-Catalunya/
 │
 ├── data/
@@ -100,6 +100,7 @@ ACA-Piezometry-Catalunya/
 │   └── resumen_tendencias_estaciones.csv
 ├── analisis_piezometrico_catalunya.ipynb
 └── README.md
+```
 ---
 
 ## How to Run the Analysis
