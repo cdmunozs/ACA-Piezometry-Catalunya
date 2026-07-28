@@ -66,7 +66,7 @@ The data includes: station description, water body name, UTM coordinates, well d
 ![Seasonality](output/05_estacionalidad.png)
 *Annual cycle and monthly piezometric anomalies*
 
-🌐 **Interactive Map:** You can view the interactive clustered map live here: [Open Interactive Map](https://cdmunozs.github.io/ACA-Piezometry-Catalunya/output/mapa_piezometrico_catalunya.html)
+🌐 **Interactive Map:** You can view the interactive clustered map live here: [Open Interactive Map](https://raw.githack.com/cdmunozs/ACA-Piezometry-Catalunya/main/output/mapa_piezometrico_catalunya.html)
 
 The analysis generates an interactive HTML map (`output/mapa_piezometrico_catalunya.html`) that allows you to:
 
