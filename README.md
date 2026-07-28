@@ -42,8 +42,8 @@ The data includes: station description, water body name, UTM coordinates, well d
 | Total Raw Records | 243,969 |
 | Valid Cleaned Records | 238,186 |
 | Total Piezometers Analyzed | 907 |
-| Network Median Level | 21.40 m a.s.l. |
-| Overall Annual Trend (Aggregate) | +4.816 m/year |
+| Network Median Level | 21.4 m a.s.l. |
+| Overall Annual Trend (Aggregate) | +4.8 m/year |
 | Stations with Negative Trend (Drop) | 426 (47.0%) |
 | Stations with Positive Trend (Rise) | 481 (53.0%) |
 
