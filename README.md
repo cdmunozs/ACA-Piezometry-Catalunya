@@ -98,7 +98,7 @@ ACA-Piezometry-Catalunya/
 │   ├── 05_estacionalidad.png
 │   ├── mapa_piezometrico_catalunya.html
 │   └── resumen_tendencias_estaciones.csv
-├── analisis_piezometrico_catalunya.ipynb
+├── piezometria_aca_catalunya.ipynb
 └── README.md
 ```
 ---
@@ -107,7 +107,7 @@ ACA-Piezometry-Catalunya/
 
 ```bash
 pip install pandas numpy matplotlib scipy folium pyproj
-jupyter notebook analisis_piezometrico_catalunya.ipynb
+jupyter notebook piezometria_aca_catalunya.ipynb
 ```
 
 ---
