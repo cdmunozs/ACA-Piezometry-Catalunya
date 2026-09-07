@@ -68,7 +68,7 @@ The data includes: station description, water body name, UTM coordinates, well d
 
 🌐 **Interactive Map:** You can view the interactive clustered map live here:[Open Interactive Map](https://raw.githack.com/cdmunozs/ACA-Piezometry-Catalunya/main/output/mapa_piezometrico_catalunya.html)
 
-The analysis generates an interactive HTML map (`output/piezometric_network_catalonia.html`) that allows you to:
+The analysis generates an interactive HTML map (`output/piezometric_network_Catalonia.html`) that allows you to:
 
 - View the location of all ACA network piezometers
 - Check the individual trend of each station (m/year)
