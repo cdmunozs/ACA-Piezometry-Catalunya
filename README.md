@@ -39,13 +39,13 @@ The data includes: station description, water body name, UTM coordinates, well d
 
 | Parameter / Metric | Value |
 |--------------------|-------|
-| Total Raw Records | 243,969 |
-| Valid Cleaned Records | 238,186 |
-| Total Piezometers Analyzed | 907 |
-| Network Median Level | 21.4 m a.s.l. |
-| Overall Annual Trend (Aggregate) | +4.8 m/year |
-| Stations with Negative Trend (Drop) | 426 (47.0%) |
-| Stations with Positive Trend (Rise) | 481 (53.0%) |
+| Total Raw Records | 244,114 |
+| Valid Cleaned Records | 238,330 |
+| Total Piezometers Analyzed | 912 |
+| Network Median Level | 21.41 m a.s.l. |
+| Overall Annual Trend (Median, Station-Level) | +0.005 m/year (≈ stable) |
+| Stations with Negative Trend (Drop) | 431 (47.3%) |
+| Stations with Positive Trend (Rise) | 481 (52.7%) |
 
 ---
 
@@ -126,7 +126,7 @@ jupyter notebook piezometria_aca_catalunya.ipynb
 
 ## Hydrogeological Context
 
-Catalonia's groundwater monitoring network distributed across internal basins records piezometric levels in numerous wells embedded in diverse hydrogeological units. While regional aggregate trends can show mathematical balances influenced by artificial recharge or specific heavy recoveries, individual station breakdowns reveal that nearly half of the monitored points (47.0%) face severe negative trends. This high polarization underscores the vulnerability of local aquifers to intense anthropogenic extractions and multi-annual drought sequences established by the Catalan Drought Plan.
+Catalonia's groundwater monitoring network distributed across internal basins records piezometric levels in numerous wells embedded in diverse hydrogeological units. At the network-wide scale, the median station-level trend is essentially flat (+0.005 m/year), suggesting overall stability. However, this stability masks sharp local divergence: individual station breakdowns reveal that nearly half of the monitored points (47.3%) face negative trends, several of them severe. This high polarization underscores the vulnerability of local aquifers to intense anthropogenic extractions and multi-annual drought sequences established by the Catalan Drought Plan, and highlights why station-level analysis, rather than a single network-wide average, is essential for meaningful groundwater management.
 
 ---
 
