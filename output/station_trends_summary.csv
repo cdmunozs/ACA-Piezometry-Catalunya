@@ -1,4 +1,4 @@
-estacion,tendencia_m_año,r2,p_valor,n_mediciones,nivel_medio,rango_m,año_inicio,año_fin,x,y,masa_agua
+station,trend_m_year,r2,p_value,n_measurements,mean_level,range_m,start_year,end_year,x,y,water_body
 Piezòmetre - 11 Gironella-1,0.058448808044083304,0.31119954060761895,2.747364608261834e-60,722.0,441.1521191135734,3.0399999999999636,2009.0,2024.0,407431.31,4654152.83,N/D - Subterrània
 Piezòmetre - 11 Sallent-1,-0.10578662882217016,0.5767875741151971,1.7126959831366836e-143,759.0,241.11452042160738,2.969999999999999,2009.0,2024.0,409279.0,4626275.0,Detrítics terciaris del Llobregat mig
 Piezòmetre - 11 Sant Vicenç De Castellet-1,0.00039804395923006744,9.5150680695276e-05,0.7930262203599525,726.0,155.00248760330578,1.5900000000000034,2009.0,2024.0,405268.67,4612939.76,Detrítics terciaris del Llobregat mig
