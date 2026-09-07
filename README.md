@@ -51,22 +51,22 @@ The data includes: station description, water body name, UTM coordinates, well d
 
 ## Data Visualizations
 
-![Exploratory Analysis](output/01_exploratorio.png)
+![Exploratory Analysis](output/01_exploratory_analysis.png)
 *Exploratory distribution of records, level frequencies, and top water bodies*
 
-![General Trend](output/02_tendencia_general.png)
+![General Trend](output/02_overall_trend.png)
 *Temporal evolution and linear regression trend of the network*
 
-![Trend Distribution](output/03_distribucion_tendencias.png)
+![Trend Distribution](output/03_trend_distribution.png)
 *Distribution of individual station trends and extreme water bodies*
 
-![Time Series](output/04_series_temporales.png)
+![Time Series](output/04_time_series.png)
 *Time series and moving averages for stations with highest historical coverage*
 
-![Seasonality](output/05_estacionalidad.png)
+![Seasonality](output/05_seasonality.png)
 *Annual cycle and monthly piezometric anomalies*
 
-🌐 **Interactive Map:** You can view the interactive clustered map live here: [Open Interactive Map](https://raw.githack.com/cdmunozs/ACA-Piezometry-Catalunya/main/output/mapa_piezometrico_catalunya.html)
+🌐 **Interactive Map:** You can view the interactive clustered map live here:[Open Interactive Map](https://raw.githack.com/cdmunozs/ACA-Piezometry-Catalunya/main/output/mapa_piezometrico_catalunya.html)
 
 The analysis generates an interactive HTML map (`output/mapa_piezometrico_catalunya.html`) that allows you to:
 
@@ -89,15 +89,15 @@ The analysis generates an interactive HTML map (`output/mapa_piezometrico_catalu
 ACA-Piezometry-Catalunya/
 │
 ├── data/
-│   └── (Auto-downloaded from ACA API)
+│ └── (Auto-downloaded from ACA API)
 ├── output/
-│   ├── 01_exploratorio.png
-│   ├── 02_tendencia_general.png
-│   ├── 03_distribucion_tendencias.png
-│   ├── 04_series_temporales.png
-│   ├── 05_estacionalidad.png
-│   ├── mapa_piezometrico_catalunya.html
-│   └── resumen_tendencias_estaciones.csv
+│ ├── 01_exploratory_analysis.png
+│ ├── 02_overall_trend.png
+│ ├── 03_trend_distribution.png
+│ ├── 04_time_series.png
+│ ├── 05_seasonality.png
+│ ├── mapa_piezometrico_catalunya.html
+│ └── station_trends_summary.csv
 ├── piezometria_aca_catalunya.ipynb
 └── README.md
 ```
