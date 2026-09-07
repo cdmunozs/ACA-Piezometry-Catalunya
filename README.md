@@ -96,7 +96,7 @@ ACA-Piezometry-Catalunya/
 │ ├── 03_trend_distribution.png
 │ ├── 04_time_series.png
 │ ├── 05_seasonality.png
-│ ├── mapa_piezometrico_catalunya.html
+│ ├── piezometric_network_Catalonia.html
 │ └── station_trends_summary.csv
 ├── piezometria_aca_catalunya.ipynb
 └── README.md
